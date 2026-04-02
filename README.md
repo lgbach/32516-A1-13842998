@@ -1,7 +1,6 @@
 # 💰 Smart Expense Tracker
 
 **Gia Bach Le — 13842998**
-
 ---
 
 ## Project Overview
@@ -18,9 +17,9 @@ Smart Expense Tracker is a full-stack single-page application that empowers user
 
 ```
 ┌─────────────────────────────────────────────────┐
-│           SMART EXPENSE TRACKER                  │
+│           SMART EXPENSE TRACKER                 │
 ├─────────────────────────────────────────────────┤
-│                                                  │
+│                                                 │
 │  Frontend:        React 19 (Vite)               │
 │  Styling:         Vanilla CSS (Grid & Flexbox)  │
 │  Routing:         React state-based SPA tabs    │
@@ -29,7 +28,7 @@ Smart Expense Tracker is a full-stack single-page application that empowers user
 │  Database:        MySQL 9                       │
 │  API:             RESTful JSON (port 8000)      │
 │  Dev Server:      Vite (port 5173)              │
-│                                                  │
+│                                                 │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -183,3 +182,5 @@ Get-Content expense_tracker.sql | mysql -u root -proot expense_tracker
 ## License & Attribution
 
 Created as an academic assignment for Internet Programming (32561) — Gia Bach Le, 13842998.
+
+Github link: https://github.com/lgbach/32561-A1-13842998
