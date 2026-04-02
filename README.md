@@ -182,7 +182,3 @@ Get-Content expense_tracker.sql | mysql -u root -proot expense_tracker
 ## License & Attribution
 
 Created as an academic assignment for Internet Programming (32561) — Gia Bach Le, 13842998.
-
-Public Github link: https://github.com/lgbach/32561-A1-13842998
-
-Public Github link: https://github.com/lgbach/32561-A1-13842998
