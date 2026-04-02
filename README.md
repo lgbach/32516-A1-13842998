@@ -18,9 +18,9 @@ Smart Expense Tracker is a full-stack single-page application that empowers user
 
 ```
 ┌─────────────────────────────────────────────────┐
-│           SMART EXPENSE TRACKER                  │
+│           SMART EXPENSE TRACKER                 │
 ├─────────────────────────────────────────────────┤
-│                                                  │
+│                                                 │
 │  Frontend:        React 19 (Vite)               │
 │  Styling:         Vanilla CSS (Grid & Flexbox)  │
 │  Routing:         React state-based SPA tabs    │
@@ -29,7 +29,7 @@ Smart Expense Tracker is a full-stack single-page application that empowers user
 │  Database:        MySQL 9                       │
 │  API:             RESTful JSON (port 8000)      │
 │  Dev Server:      Vite (port 5173)              │
-│                                                  │
+│                                                 │
 └─────────────────────────────────────────────────┘
 ```
 
