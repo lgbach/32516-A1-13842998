@@ -691,6 +691,90 @@ db.user_activities.find({ user_id: ObjectId("...") }).sort({ timestamp: -1 }).pr
 
 ---
 
+## � Database Export & Setup
+
+### Included Database Backup
+The `database_export/` directory contains JSON exports of all MongoDB collections:
+
+- **users.json** — User accounts with authentication data
+- **expenses.json** — Expense records
+- **user_activities.json** — User activity audit logs
+- **_metadata.json** — Export metadata and collection counts
+
+### Restoring the Database
+
+#### Option 1: Using the Import Script
+A utility script is included to restore the exported data:
+
+```powershell
+cd backend
+python import_database.py
+```
+
+#### Option 2: Manual Import via mongosh
+```powershell
+mongosh -u root -p root --authenticationDatabase admin expense_tracker
+
+# In mongosh shell:
+db.users.deleteMany({})
+db.expenses.deleteMany({})
+db.user_activities.deleteMany({})
+
+# Import from JSON files (MongoDB CLI)
+mongoimport --authenticationDatabase admin -u root -p root \
+  --host 127.0.0.1 --port 27017 -d expense_tracker \
+  -c users --file database_export/users.json --jsonArray
+```
+
+### Exporting the Database
+
+To create a fresh export of the database:
+
+```powershell
+python export_database.py
+```
+
+This creates JSON files in `database_export/` directory with all collections and metadata.
+
+---
+
+## 🎥 Assignment Submission
+
+### Requirements Checklist
+✅ **GitHub Repository**: [lgbach/32516-A1-13842998](https://github.com/lgbach/32516-A1-13842998)  
+✅ **Database Export**: JSON files in `database_export/` directory  
+✅ **README Documentation**: Complete setup and usage guide  
+✅ **Video Demo**: Required (≤3 minutes)
+
+### Submission Components
+
+1. **Source Code** — Available on GitHub
+   - Full frontend and backend code
+   - Database export files
+   - Utility scripts for database operations
+
+2. **Database Export** — Located in `database_export/`
+   - All MongoDB collections exported as JSON
+   - Includes sample data for testing
+   - Can be imported using the provided scripts
+
+3. **README** — This file
+   - Project overview and features
+   - Complete setup instructions
+   - API documentation
+   - Troubleshooting guide
+
+4. **Video Demonstration** (≤3 minutes)
+   - To be recorded and submitted separately
+   - Should demonstrate:
+     - User authentication (registration/login)
+     - Adding and managing expenses
+     - Searching and filtering
+     - Analytics and visualizations
+     - Admin features (if applicable)
+
+---
+
 ## 📚 License & Attribution
 
 Created as an academic assignment for **Internet Programming (32516)**  

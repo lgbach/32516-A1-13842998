@@ -1,0 +1,692 @@
+[
+  {
+    "_id": "6a01e8d3f7902badd5f05599",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e8d3f7902badd5f05598",
+    "details": "Created expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:33:55.304000"
+  },
+  {
+    "_id": "6a01e8eaf7902badd5f0559b",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e8eaf7902badd5f0559a",
+    "details": "Created expense: Groceries",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:34:18.561000"
+  },
+  {
+    "_id": "6a01e8fff7902badd5f0559c",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:34:39.257000"
+  },
+  {
+    "_id": "6a01e905f7902badd5f0559d",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:34:45.284000"
+  },
+  {
+    "_id": "6a01e932f7902badd5f0559f",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e932f7902badd5f0559e",
+    "details": "Created expense: Dinner",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:35:30.181000"
+  },
+  {
+    "_id": "6a01e944f7902badd5f055a1",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e944f7902badd5f055a0",
+    "details": "Created expense: Dinner",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:35:48.147000"
+  },
+  {
+    "_id": "6a01e959f7902badd5f055a3",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e959f7902badd5f055a2",
+    "details": "Created expense: Rent",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:36:09.239000"
+  },
+  {
+    "_id": "6a01e970f7902badd5f055a4",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "update",
+    "resource_type": "expense",
+    "resource_id": "6a01e959f7902badd5f055a2",
+    "details": "Updated expense: Rent",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:36:32.963000"
+  },
+  {
+    "_id": "6a01e985f7902badd5f055a6",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e985f7902badd5f055a5",
+    "details": "Created expense: Rent",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:36:53.035000"
+  },
+  {
+    "_id": "6a01e99bf7902badd5f055a8",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01e99bf7902badd5f055a7",
+    "details": "Created expense: Rent",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:37:15.459000"
+  },
+  {
+    "_id": "6a01ece0f7902badd5f055aa",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01ece0f7902badd5f055a9",
+    "details": "Created expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:51:12.802000"
+  },
+  {
+    "_id": "6a01edb6f7902badd5f055ab",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:54:46.796000"
+  },
+  {
+    "_id": "6a01ede0f7902badd5f055ae",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01ede0f7902badd5f055ad",
+    "details": "Created expense: Test_food",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:55:28.327000"
+  },
+  {
+    "_id": "6a01edf1f7902badd5f055b0",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01edf1f7902badd5f055af",
+    "details": "Created expense: Test_rent",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:55:45.250000"
+  },
+  {
+    "_id": "6a01ee03f7902badd5f055b2",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01ee03f7902badd5f055b1",
+    "details": "Created expense: Test_groceries",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:56:03.629000"
+  },
+  {
+    "_id": "6a01ee1bf7902badd5f055b4",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a01ee1bf7902badd5f055b3",
+    "details": "Created expense: Test_transport",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:56:27.967000"
+  },
+  {
+    "_id": "6a01eed202b0afe3ec2fff91",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T14:59:30.918000"
+  },
+  {
+    "_id": "6a01eef002b0afe3ec2fff92",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:00.386000"
+  },
+  {
+    "_id": "6a01ef1802b0afe3ec2fff93",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:40.163000"
+  },
+  {
+    "_id": "6a01ef1c02b0afe3ec2fff94",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:44.462000"
+  },
+  {
+    "_id": "6a01ef1e02b0afe3ec2fff95",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:46.841000"
+  },
+  {
+    "_id": "6a01ef2802b0afe3ec2fff96",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:56.402000"
+  },
+  {
+    "_id": "6a01ef2b02b0afe3ec2fff97",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:00:59.194000"
+  },
+  {
+    "_id": "6a01efbb00d4559240cc96b8",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:03:23.724000"
+  },
+  {
+    "_id": "6a01eff500d4559240cc96b9",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:04:21.565000"
+  },
+  {
+    "_id": "6a01eff900d4559240cc96ba",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:04:25.965000"
+  },
+  {
+    "_id": "6a01f00200d4559240cc96bb",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:04:34.304000"
+  },
+  {
+    "_id": "6a01f01200d4559240cc96bc",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:04:50.719000"
+  },
+  {
+    "_id": "6a01f10500d4559240cc96bd",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:08:53.060000"
+  },
+  {
+    "_id": "6a01f10900d4559240cc96be",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:08:57.518000"
+  },
+  {
+    "_id": "6a01f26400d4559240cc96bf",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:14:44.920000"
+  },
+  {
+    "_id": "6a01f27000d4559240cc96c0",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:14:56.808000"
+  },
+  {
+    "_id": "6a01f27700d4559240cc96c1",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:15:03.157000"
+  },
+  {
+    "_id": "6a01f27f00d4559240cc96c2",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:15:11.625000"
+  },
+  {
+    "_id": "6a01f28c00d4559240cc96c3",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:15:24.046000"
+  },
+  {
+    "_id": "6a01f29000d4559240cc96c4",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:15:28.636000"
+  },
+  {
+    "_id": "6a01f4f4f166c612ddf1fdea",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:25:40.304000"
+  },
+  {
+    "_id": "6a01f9158a853c8ccb1c6ebf",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:43:17.698000"
+  },
+  {
+    "_id": "6a01f9188a853c8ccb1c6ec0",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:43:20.186000"
+  },
+  {
+    "_id": "6a01f9278a853c8ccb1c6ec1",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:43:35.998000"
+  },
+  {
+    "_id": "6a01fcef8a853c8ccb1c6ec2",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:59:43.586000"
+  },
+  {
+    "_id": "6a01fcfe8a853c8ccb1c6ec3",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-11T15:59:58.760000"
+  },
+  {
+    "_id": "6a0f5392e8f30772ef66152a",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-21T18:48:50.728000"
+  },
+  {
+    "_id": "6a0f5396e8f30772ef66152b",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-21T18:48:54.167000"
+  },
+  {
+    "_id": "6a0f53a3e8f30772ef66152c",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-21T18:49:07.767000"
+  },
+  {
+    "_id": "6a0f549ae8f30772ef66152d",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-21T18:53:14.880000"
+  },
+  {
+    "_id": "6a0f549fe8f30772ef66152e",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-21T18:53:19.634000"
+  },
+  {
+    "_id": "6a0fefd2e8f30772ef66152f",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T05:55:30.343000"
+  },
+  {
+    "_id": "6a0fefebe8f30772ef661530",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T05:55:55.152000"
+  },
+  {
+    "_id": "6a0ff236e8f30772ef661531",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:05:42.939000"
+  },
+  {
+    "_id": "6a0ff268e8f30772ef661533",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a0ff268e8f30772ef661532",
+    "details": "Created expense: Groceries",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:06:32.588000"
+  },
+  {
+    "_id": "6a0ff29ee8f30772ef661534",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:07:26.522000"
+  },
+  {
+    "_id": "6a0ff3abe8f30772ef661537",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:11:55.299000"
+  },
+  {
+    "_id": "6a0ff3c1e8f30772ef661538",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:12:17.504000"
+  },
+  {
+    "_id": "6a0ff442e8f30772ef66153b",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:14:26.838000"
+  },
+  {
+    "_id": "6a0ff48fe8f30772ef66153d",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a0ff48fe8f30772ef66153c",
+    "details": "Created expense: petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:15:43.187000"
+  },
+  {
+    "_id": "6a0ff4b5e8f30772ef66153e",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "update",
+    "resource_type": "expense",
+    "resource_id": "6a01ece0f7902badd5f055a9",
+    "details": "Updated expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:16:21.525000"
+  },
+  {
+    "_id": "6a0ff4bce8f30772ef66153f",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "delete",
+    "resource_type": "expense",
+    "resource_id": "6a01ece0f7902badd5f055a9",
+    "details": "Deleted expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:16:28.347000"
+  },
+  {
+    "_id": "6a0ff4dfe8f30772ef661540",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:17:03.359000"
+  },
+  {
+    "_id": "6a0ff4ede8f30772ef661541",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:17:17.068000"
+  },
+  {
+    "_id": "6a0ff4fae8f30772ef661542",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:17:30.318000"
+  },
+  {
+    "_id": "6a0ff54ce8f30772ef661544",
+    "user_id": "6a0ff544e8f30772ef661543",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:18:52.403000"
+  },
+  {
+    "_id": "6a0ff57fe8f30772ef661545",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:19:43.703000"
+  },
+  {
+    "_id": "6a0ff5a8e8f30772ef661547",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "create",
+    "resource_type": "expense",
+    "resource_id": "6a0ff5a8e8f30772ef661546",
+    "details": "Created expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:20:24.751000"
+  },
+  {
+    "_id": "6a0ff5c6e8f30772ef661548",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "delete",
+    "resource_type": "expense",
+    "resource_id": "6a0ff48fe8f30772ef66153c",
+    "details": "Deleted expense: petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:20:54.031000"
+  },
+  {
+    "_id": "6a0ff5fce8f30772ef661549",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "update",
+    "resource_type": "expense",
+    "resource_id": "6a01e8d3f7902badd5f05598",
+    "details": "Updated expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:21:48.266000"
+  },
+  {
+    "_id": "6a0ff60de8f30772ef66154a",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "delete",
+    "resource_type": "expense",
+    "resource_id": "6a01e8d3f7902badd5f05598",
+    "details": "Deleted expense: Petrol",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:22:05.736000"
+  },
+  {
+    "_id": "6a0ff630e8f30772ef66154b",
+    "user_id": "6a01e784f7902badd5f05597",
+    "action": "logout",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User logout",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:22:40.596000"
+  },
+  {
+    "_id": "6a0ff649e8f30772ef66154c",
+    "user_id": "6a01ee9239a89b693da45a07",
+    "action": "login",
+    "resource_type": "auth",
+    "resource_id": null,
+    "details": "User login successful",
+    "ip_address": null,
+    "timestamp": "2026-05-22T06:23:05.787000"
+  }
+]

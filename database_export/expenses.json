@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "6a01e8eaf7902badd5f0559a",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Groceries",
+    "amount": 55.0,
+    "category": "Shopping",
+    "date": "2026-05-09",
+    "description": "Woolies",
+    "created_at": "2026-05-11T14:34:18.560000",
+    "updated_at": "2026-05-11T14:34:18.560000"
+  },
+  {
+    "_id": "6a01e932f7902badd5f0559e",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Dinner",
+    "amount": 75.0,
+    "category": "Food",
+    "date": "2026-04-19",
+    "description": "Pizza",
+    "created_at": "2026-05-11T14:35:30.180000",
+    "updated_at": "2026-05-11T14:35:30.180000"
+  },
+  {
+    "_id": "6a01e944f7902badd5f055a0",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Dinner",
+    "amount": 40.0,
+    "category": "Food",
+    "date": "2026-05-08",
+    "description": "Hotpot",
+    "created_at": "2026-05-11T14:35:48.147000",
+    "updated_at": "2026-05-11T14:35:48.147000"
+  },
+  {
+    "_id": "6a01e959f7902badd5f055a2",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Rent",
+    "amount": 635.0,
+    "category": "Bills",
+    "date": "2026-04-29",
+    "description": "",
+    "created_at": "2026-05-11T14:36:09.239000",
+    "updated_at": "2026-05-11T14:36:32.962000"
+  },
+  {
+    "_id": "6a01e985f7902badd5f055a5",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Rent",
+    "amount": 635.0,
+    "category": "Bills",
+    "date": "2026-04-15",
+    "description": "",
+    "created_at": "2026-05-11T14:36:53.034000",
+    "updated_at": "2026-05-11T14:36:53.034000"
+  },
+  {
+    "_id": "6a01e99bf7902badd5f055a7",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Rent",
+    "amount": 635.0,
+    "category": "Bills",
+    "date": "2026-05-13",
+    "description": "",
+    "created_at": "2026-05-11T14:37:15.458000",
+    "updated_at": "2026-05-11T14:37:15.458000"
+  },
+  {
+    "_id": "6a01ede0f7902badd5f055ad",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "title": "Test_food",
+    "amount": 50.0,
+    "category": "Food",
+    "date": "2026-05-11",
+    "description": "",
+    "created_at": "2026-05-11T14:55:28.327000",
+    "updated_at": "2026-05-11T14:55:28.327000"
+  },
+  {
+    "_id": "6a01edf1f7902badd5f055af",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "title": "Test_rent",
+    "amount": 700.0,
+    "category": "Bills",
+    "date": "2026-05-06",
+    "description": "",
+    "created_at": "2026-05-11T14:55:45.250000",
+    "updated_at": "2026-05-11T14:55:45.250000"
+  },
+  {
+    "_id": "6a01ee03f7902badd5f055b1",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "title": "Test_groceries",
+    "amount": 30.0,
+    "category": "Shopping",
+    "date": "2026-05-10",
+    "description": "",
+    "created_at": "2026-05-11T14:56:03.628000",
+    "updated_at": "2026-05-11T14:56:03.628000"
+  },
+  {
+    "_id": "6a01ee1bf7902badd5f055b3",
+    "user_id": "6a01edd5f7902badd5f055ac",
+    "title": "Test_transport",
+    "amount": 20.0,
+    "category": "Transport",
+    "date": "2026-04-28",
+    "description": "Opal",
+    "created_at": "2026-05-11T14:56:27.966000",
+    "updated_at": "2026-05-11T14:56:27.966000"
+  },
+  {
+    "_id": "6a0ff268e8f30772ef661532",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Groceries",
+    "amount": 30.0,
+    "category": "Food",
+    "date": "2026-05-22",
+    "description": "- Milk\n- Steak\n-----",
+    "created_at": "2026-05-22T06:06:32.576000",
+    "updated_at": "2026-05-22T06:06:32.576000"
+  },
+  {
+    "_id": "6a0ff5a8e8f30772ef661546",
+    "user_id": "6a01e784f7902badd5f05597",
+    "title": "Petrol",
+    "amount": 80.0,
+    "category": "Transport",
+    "date": "2026-05-22",
+    "description": "E10",
+    "created_at": "2026-05-22T06:20:24.750000",
+    "updated_at": "2026-05-22T06:20:24.750000"
+  }
+]

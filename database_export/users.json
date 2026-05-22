@@ -1,0 +1,36 @@
+[
+  {
+    "_id": "6a01e784f7902badd5f05597",
+    "email": "giabach1532@gmail.com",
+    "username": "Bach_le",
+    "password_hash": "$2b$12$aymrujQ.JPB0laVB0du9CuxJRQZ5Gd3lskWxf8FoBwAal11uBcksW",
+    "is_admin": false,
+    "created_at": "2026-05-11T14:28:20.653000",
+    "updated_at": "2026-05-11T14:28:20.653000"
+  },
+  {
+    "_id": "6a01edd5f7902badd5f055ac",
+    "email": "bachle15032002@gmail.com",
+    "username": "Test_Bach",
+    "password_hash": "$2b$12$JvedD5g4RikBWY8GVR.BbuJzwA4yRV2vI3QL2UzQfCmWV3K42IDRO",
+    "is_admin": false,
+    "created_at": "2026-05-11T14:55:17.082000",
+    "updated_at": "2026-05-11T14:55:17.082000"
+  },
+  {
+    "_id": "6a01ee9239a89b693da45a07",
+    "email": "admin@test.com",
+    "username": "admin_user",
+    "is_admin": true,
+    "password_hash": "$2b$12$NWrmQOuQ1Z7wVUH2OhQ8wOIDQvLTkCT60A2e/HRAiSjCSthrPPcr6"
+  },
+  {
+    "_id": "6a0ff544e8f30772ef661543",
+    "email": "test@test.com",
+    "username": "test_user",
+    "password_hash": "$2b$12$ITbaZsTwj3/qlEV1LoyvWO2Pobmj/uIDugPu0OeUHrA3LVVRkQ9GG",
+    "is_admin": false,
+    "created_at": "2026-05-22T06:18:44.386000",
+    "updated_at": "2026-05-22T06:18:44.386000"
+  }
+]
