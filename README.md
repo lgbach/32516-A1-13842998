@@ -696,4 +696,4 @@ db.user_activities.find({ user_id: ObjectId("...") }).sort({ timestamp: -1 }).pr
 Created as an academic assignment for **Internet Programming (32516)**  
 **Student:** Gia Bach Le — **Student ID:** 13842998
 
-For questions or feedback, contact: giabach1532@gmail.com
+For questions or feedback, contact: giabach.le@student.uts.edu.au
